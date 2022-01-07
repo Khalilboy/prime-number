@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CApp_testing</id>
+    <version>1.0.0</version>
+    <authors>CApp_testing</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\CSharp\capp\CApp_testing\CApp_testing\bin\Debug\netcoreapp3.1\CApp_testing.runtimeconfig.json" target="lib\netcoreapp3.1\CApp_testing.runtimeconfig.json" />
+    <file src="E:\CSharp\capp\CApp_testing\CApp_testing\bin\Debug\netcoreapp3.1\CApp_testing.dll" target="lib\netcoreapp3.1\CApp_testing.dll" />
+  </files>
+</package>

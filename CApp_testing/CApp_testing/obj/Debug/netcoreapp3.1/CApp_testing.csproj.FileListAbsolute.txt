@@ -1,0 +1,14 @@
+E:\CSharp\capp\CApp_testing\CApp_testing\bin\Debug\netcoreapp3.1\CApp_testing.exe
+E:\CSharp\capp\CApp_testing\CApp_testing\bin\Debug\netcoreapp3.1\CApp_testing.deps.json
+E:\CSharp\capp\CApp_testing\CApp_testing\bin\Debug\netcoreapp3.1\CApp_testing.runtimeconfig.json
+E:\CSharp\capp\CApp_testing\CApp_testing\bin\Debug\netcoreapp3.1\CApp_testing.runtimeconfig.dev.json
+E:\CSharp\capp\CApp_testing\CApp_testing\bin\Debug\netcoreapp3.1\CApp_testing.dll
+E:\CSharp\capp\CApp_testing\CApp_testing\bin\Debug\netcoreapp3.1\CApp_testing.pdb
+E:\CSharp\capp\CApp_testing\CApp_testing\obj\Debug\netcoreapp3.1\CApp_testing.csproj.AssemblyReference.cache
+E:\CSharp\capp\CApp_testing\CApp_testing\obj\Debug\netcoreapp3.1\CApp_testing.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\capp\CApp_testing\CApp_testing\obj\Debug\netcoreapp3.1\CApp_testing.AssemblyInfoInputs.cache
+E:\CSharp\capp\CApp_testing\CApp_testing\obj\Debug\netcoreapp3.1\CApp_testing.AssemblyInfo.cs
+E:\CSharp\capp\CApp_testing\CApp_testing\obj\Debug\netcoreapp3.1\CApp_testing.csproj.CoreCompileInputs.cache
+E:\CSharp\capp\CApp_testing\CApp_testing\obj\Debug\netcoreapp3.1\CApp_testing.dll
+E:\CSharp\capp\CApp_testing\CApp_testing\obj\Debug\netcoreapp3.1\CApp_testing.pdb
+E:\CSharp\capp\CApp_testing\CApp_testing\obj\Debug\netcoreapp3.1\CApp_testing.genruntimeconfig.cache
